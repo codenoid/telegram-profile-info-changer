@@ -1,7 +1,7 @@
 # telegram-profile-info-changer
 
 ```
-pip3 install requests tgcrypto
+pip3 install pyrogram requests tgcrypto
 python3 app.py
 ```
 
